@@ -5,6 +5,8 @@ import { ThemeProvider } from "styled-components";
 import App from "./App";
 import { darkTheme } from "./theme";
 
+// 챌린지 2번째 과제
+
 ReactDOM.render(
   <React.StrictMode>
     <RecoilRoot>
